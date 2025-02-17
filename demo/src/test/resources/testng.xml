@@ -4,7 +4,7 @@
     <test name="DropdownTestExecution">
         <classes>
             <!-- <class name="com.example.tests.DropdownTest"/> -->
-             <class name="com.example.tests.AnotherTest"/>
+             <class name="e2e.LoginTest"/>
         </classes>
     </test>
 </suite>
